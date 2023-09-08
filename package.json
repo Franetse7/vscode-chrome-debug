@@ -74,7 +74,7 @@
     "vscode-chrome-debug-core-testsupport": "^4.0.0",
     "vscode-debugadapter-testsupport": "^1.33.0",
     "vscode-debugprotocol": "^1.37.0",
-    "vscode-nls-dev": "^3.3.1"
+    "vscode-nls-dev": "^4.0.4"
   },
   "main": "./out/src/extension",
   "activationEvents": [
